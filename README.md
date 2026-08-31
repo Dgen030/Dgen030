@@ -1,18 +1,15 @@
 !Welcome to My REPOSITORY!
 
 HELLO, 
-Im Marius, a Full-Stack Software Developer (in-progress), passionate about building modern websites and applications that are not only functional but also intuitive and user-friendly. I enjoy combining development with UX/UI design to create digital experiences that truly come to life.
+I'm Marius, a Front-End Web Developer (in-progress), passionate about building modern websites and applications that are not only functional but also intuitive and user-friendly. I enjoy combining development with UX/UI design to create digital experiences that truly come to life.
 
 I’m especially interested in Artificial Intelligence and exploring how AI can be integrated into both simple and complex applications to solve real-world problems. I focus on strengthening my foundations in both front-end and back-end development, writing clean and maintainable code, and building practical projects that challenge my skills.
 
 
-🚀 Passionate about building Practical, Robust anbd User-friendly web applications  
-🎨 Interested in UX/UI design and creating intuitive digital experiences  
-🧠 Exploring Artificial Intelligence integration in real-world systems  
-
-I am continuously learning and seeking improvement in my craft
-
-Oh and PS, I love JavaScript, I think it's one of the more versitile languages alongside Python😉😅
+🚀 Increasingly drawn to building Practical, Robust and User-friendly web applications  
+🎨 Interested in UX/UI design and creating intuitive digital experiences.
+🧠 Exploring Artificial Intelligence integration in real-world systems.
+⚡ Fueled by continuous improvement and a genuine love for the craft. 
 
 🛠️ Current Tech Stack/Tools and Skills of Choice:
 <img width="48" height="48" alt="icons8-html-5-48" src="https://github.com/user-attachments/assets/fb873773-dc7b-47a6-83a5-2a4fc3ca22a7" />
@@ -25,6 +22,6 @@ Oh and PS, I love JavaScript, I think it's one of the more versitile languages a
 <img width="48" height="48" alt="icons8-java-48" src="https://github.com/user-attachments/assets/0617c095-9ec9-4a7e-986d-99195dc4c057" />
 <img width="48" height="48" alt="icons8-visual-studio-code-2019-48" src="https://github.com/user-attachments/assets/815406c0-69a2-43af-85d2-c3fab89d8056" />
 
-My Ultimate Goal is to Master Creating Complete, Practical, Useful and Versitile Applications that solve and meet real world problems and demands!
+My North Star: crafting Complete, Practical, and Versatile Applications that solve what actually needs solving — one bug-free miracle at a time!
 
 
