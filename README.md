@@ -22,8 +22,6 @@ I’m especially interested in Artificial Intelligence and exploring how AI can 
 <img width="48" height="48" alt="icons8-visual-studio-code-2019-48" src="https://github.com/user-attachments/assets/815406c0-69a2-43af-85d2-c3fab89d8056" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <i class="devicon-python-plain colored"></i>
-          
-          
 My North Star: crafting Complete, Practical, and Versatile Applications that solve what actually needs solving — one bug-free miracle at a time!
 
 
