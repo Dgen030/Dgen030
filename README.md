@@ -20,8 +20,8 @@ I’m especially interested in Artificial Intelligence and exploring how AI can 
 <img width="48" height="48" alt="icons8-git-48" src="https://github.com/user-attachments/assets/bc89f3bb-c5c3-45d8-971b-8ad12b0b689d" />
 <img width="48" height="48" alt="icons8-java-48" src="https://github.com/user-attachments/assets/0617c095-9ec9-4a7e-986d-99195dc4c057" />
 <img width="48" height="48" alt="icons8-visual-studio-code-2019-48" src="https://github.com/user-attachments/assets/815406c0-69a2-43af-85d2-c3fab89d8056" />
-<img width="32" height="32" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="32" height="32" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img width="48" height="48" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="48" height="48" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 My North Star: crafting Complete, Practical, and Versatile Applications that solve what actually needs solving — one bug-free miracle at a time!
 
