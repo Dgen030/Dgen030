@@ -18,7 +18,6 @@ I’m especially interested in Artificial Intelligence and exploring how AI can 
 <img width="48" height="48" alt="icons8-mongo-db-48" src="https://github.com/user-attachments/assets/abb938a4-6439-4ae7-af44-33acfd58290c" />
 <img width="48" height="48" alt="icons8-github-48" src="https://github.com/user-attachments/assets/0df9935e-e3af-4e33-91e0-5f1af1ca6e07" />
 <img width="48" height="48" alt="icons8-git-48" src="https://github.com/user-attachments/assets/bc89f3bb-c5c3-45d8-971b-8ad12b0b689d" />
-<img width="48" height="48" alt="icons8-json-48" src="https://github.com/user-attachments/assets/04175ae6-6fc3-43c8-8f05-642abcccc5b1" />
 <img width="48" height="48" alt="icons8-java-48" src="https://github.com/user-attachments/assets/0617c095-9ec9-4a7e-986d-99195dc4c057" />
 <img width="48" height="48" alt="icons8-visual-studio-code-2019-48" src="https://github.com/user-attachments/assets/815406c0-69a2-43af-85d2-c3fab89d8056" />
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
