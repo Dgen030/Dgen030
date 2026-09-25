@@ -1,6 +1,6 @@
 !Welcome to My REPOSITORY!
 
-HELLO, 
+HELLO,
 I'm Marius, a Front-End Web Developer (in-progress), passionate about building modern websites and applications that are not only functional but also intuitive and user-friendly. I enjoy combining development with UX/UI design to create digital experiences that truly come to life.
 
 I’m especially interested in Artificial Intelligence and exploring how AI can be integrated into both simple and complex applications to solve real-world problems. I focus on strengthening my foundations in both front-end and back-end development, writing clean and maintainable code, and building practical projects that challenge my skills.
