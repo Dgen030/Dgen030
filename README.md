@@ -12,9 +12,8 @@ Hello, I'm Marius, a Front-End Web Developer (in progress), passionate about bui
 
 I'm especially interested in Artificial Intelligence and exploring how AI can be integrated into both simple and complex applications to solve real-world problems. I focus on strengthening my foundations in both front-end and back-end development, writing clean and maintainable code, and building practical projects that challenge my skills.
 
-🚀 Increasingly drawn to building practical, robust and user-friendly web applications<br>
+🚀 Increasingly drawn to learning to build practical, robust and user-friendly web applications<br>
 🎨 Interested in UX/UI design and creating intuitive digital experiences<br>
-🧠 Exploring Artificial Intelligence integration in real-world systems<br>
 ⚡ Fueled by continuous improvement and a genuine love for the craft
 
 ---
