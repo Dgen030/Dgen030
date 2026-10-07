@@ -13,13 +13,21 @@ I’m especially interested in Artificial Intelligence and exploring how AI can 
 
 🛠️ Current Tech Stack/Tools and Skills of Choice:
 <img width="48" height="48" alt="icons8-html-5-48" src="https://github.com/user-attachments/assets/fb873773-dc7b-47a6-83a5-2a4fc3ca22a7" />
+<br>
 <img width="48" height="48" alt="icons8-css-48" src="https://github.com/user-attachments/assets/3db44e26-379c-4bf8-8248-7988d87fa9ff" />
+<br>
 <img width="48" height="48" alt="icons8-javascript-48" src="https://github.com/user-attachments/assets/a898b7d8-457a-4123-84b9-b18f1ac2d2f8" />
+<br>
 <img width="48" height="48" alt="icons8-mongo-db-48" src="https://github.com/user-attachments/assets/abb938a4-6439-4ae7-af44-33acfd58290c" />
+<br>-
 <img width="48" height="48" alt="icons8-github-48" src="https://github.com/user-attachments/assets/0df9935e-e3af-4e33-91e0-5f1af1ca6e07" />
+<br>
 <img width="48" height="48" alt="icons8-git-48" src="https://github.com/user-attachments/assets/bc89f3bb-c5c3-45d8-971b-8ad12b0b689d" />
+<br>
 <img width="48" height="48" alt="icons8-visual-studio-code-2019-48" src="https://github.com/user-attachments/assets/815406c0-69a2-43af-85d2-c3fab89d8056" />
+<br>
 <img width="48" height="48" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<br>
 <img width="48" height="48" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 My North Star: crafting Complete, Practical, and Versatile Applications that solve what actually needs solving — one bug-free miracle at a time!
