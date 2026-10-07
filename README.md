@@ -12,6 +12,7 @@ I’m especially interested in Artificial Intelligence and exploring how AI can 
 ⚡ Fueled by continuous improvement and a genuine love for the craft. 
 
 🛠️ Current Tech Stack/Tools and Skills of Choice:
+<br>
 <img width="48" height="48" alt="icons8-html-5-48" src="https://github.com/user-attachments/assets/fb873773-dc7b-47a6-83a5-2a4fc3ca22a7" />
 <br>
 <img width="48" height="48" alt="icons8-css-48" src="https://github.com/user-attachments/assets/3db44e26-379c-4bf8-8248-7988d87fa9ff" />
