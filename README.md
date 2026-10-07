@@ -12,7 +12,7 @@ Hello, I'm Marius, a Front-End Web Developer (in progress), passionate about bui
 
 My main focus is on strengthening my foundations first in front-end web development and then venture on to to back-end development.
 
-My Driving Factors are: 
+🧭 **My Driving Factors are:**
 
 🚀 Increasingly drawn to learning to build practical, robust and user-friendly web applications<br>
 🎨 Interested in UX/UI design and creating intuitive digital experiences<br>
