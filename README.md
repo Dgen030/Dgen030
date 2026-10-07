@@ -1,36 +1,40 @@
-!Welcome to My REPOSITORY!
+<div align="center">
 
-HELLO,
-I'm Marius, a Front-End Web Developer (in-progress), passionate about building modern websites and applications that are not only functional but also intuitive and user-friendly. I enjoy combining development with UX/UI design to create digital experiences that truly come to life.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Welcome+to+my+repository!;Front-End+Web+Developer+(in+progress);Interested+in+AI+and+UX%2FUI+design" alt="Typing SVG" />
+</a>
 
-I’m especially interested in Artificial Intelligence and exploring how AI can be integrated into both simple and complex applications to solve real-world problems. I focus on strengthening my foundations in both front-end and back-end development, writing clean and maintainable code, and building practical projects that challenge my skills.
+---
 
+## 👋 About Me
 
-🚀 Increasingly drawn to building Practical, Robust and User-friendly web applications  
-🎨 Interested in UX/UI design and creating intuitive digital experiences.
-🧠 Exploring Artificial Intelligence integration in real-world systems.
-⚡ Fueled by continuous improvement and a genuine love for the craft. 
+Hello, I'm Marius, a Front-End Web Developer (in progress), passionate about building modern websites and applications that are not only functional but also intuitive and user-friendly. I enjoy combining development with UX/UI design to create digital experiences that truly come to life.
 
-🛠️ Current Tech Stack/Tools and Skills of Choice:
-<br>
-<img width="48" height="48" alt="icons8-html-5-48" src="https://github.com/user-attachments/assets/fb873773-dc7b-47a6-83a5-2a4fc3ca22a7" />
-<br>
-<img width="48" height="48" alt="icons8-css-48" src="https://github.com/user-attachments/assets/3db44e26-379c-4bf8-8248-7988d87fa9ff" />
-<br>
-<img width="48" height="48" alt="icons8-javascript-48" src="https://github.com/user-attachments/assets/a898b7d8-457a-4123-84b9-b18f1ac2d2f8" />
-<br>
-<img width="48" height="48" alt="icons8-mongo-db-48" src="https://github.com/user-attachments/assets/abb938a4-6439-4ae7-af44-33acfd58290c" />
-<br>-
-<img width="48" height="48" alt="icons8-github-48" src="https://github.com/user-attachments/assets/0df9935e-e3af-4e33-91e0-5f1af1ca6e07" />
-<br>
-<img width="48" height="48" alt="icons8-git-48" src="https://github.com/user-attachments/assets/bc89f3bb-c5c3-45d8-971b-8ad12b0b689d" />
-<br>
-<img width="48" height="48" alt="icons8-visual-studio-code-2019-48" src="https://github.com/user-attachments/assets/815406c0-69a2-43af-85d2-c3fab89d8056" />
-<br>
-<img width="48" height="48" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<br>
-<img width="48" height="48" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+I'm especially interested in Artificial Intelligence and exploring how AI can be integrated into both simple and complex applications to solve real-world problems. I focus on strengthening my foundations in both front-end and back-end development, writing clean and maintainable code, and building practical projects that challenge my skills.
 
-My North Star: crafting Complete, Practical, and Versatile Applications that solve what actually needs solving — one bug-free miracle at a time!
+🚀 Increasingly drawn to building practical, robust and user-friendly web applications<br>
+🎨 Interested in UX/UI design and creating intuitive digital experiences<br>
+🧠 Exploring Artificial Intelligence integration in real-world systems<br>
+⚡ Fueled by continuous improvement and a genuine love for the craft
 
+---
 
+## GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dgen030&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Dgen030&theme=dark" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dgen030&layout=compact&theme=dark" alt="Top Languages" />
+
+---
+
+## 🛠️Current Tech Stack:
+
+<img src="https://skillicons.dev/icons?i=html5,css3,js,mysql,github,git,vscode,java,mysql,netlify" alt="Tech stack" />
+
+</div>
