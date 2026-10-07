@@ -35,6 +35,6 @@ I'm especially interested in Artificial Intelligence and exploring how AI can be
 
 ## 🛠️Current Tech Stack:
 
-<img src="https://skillicons.dev/icons?i=html5,css3,js,mysql,github,git,vscode,java,mysql,netlify" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=html,css3,js,mysql,github,git,vscode,java,mysql,netlify" alt="Tech stack" />
 
 </div>
